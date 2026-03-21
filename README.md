@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./RoboMate-Logo.png" alt="Demo Image" />
+  <img src="./Presentations/RoboMate-Cloud-Automation.png" alt="Demo Image" />
 </p>
 
 <h1 align="center"><strong>RoboMate Cloud Automation</strong></h1>
