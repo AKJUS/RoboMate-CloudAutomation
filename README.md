@@ -92,9 +92,9 @@ Watch the RoboMate Cloud Automation Assessments Quick Demos below
 
 [RoboMate Cloud Automation Azure Assessments](https://1drv.ms/v/c/24dfc31debd79d09/EQmd1-sdw98ggCTIwAQAAAABkIWwlW_FV0zrHqresVRKNw?e=1kKVJa)
 
-[RoboMate Cloud Automation AWS Assessments]([https://1drv.ms/v/c/24dfc31debd79d09/IQRtuoYSDNLVQZqi2oFtGBGIAXO8M-SzbaJb_u_t25ZzD74?width=3840&height=2160)
+[RoboMate Cloud Automation AWS Assessments](https://1drv.ms/v/c/24dfc31debd79d09/IQRtuoYSDNLVQZqi2oFtGBGIAXO8M-SzbaJb_u_t25ZzD74?width=3840&height=2160)
 
-[RoboMate Cloud Automation OCI Assessments]([https://1drv.ms/v/c/24dfc31debd79d09/IQS7BHJAsXYCQ5kEGPljpzLGAY6IToFZUYVemGJ-LD_P28w?width=1920&height=1080)
+[RoboMate Cloud Automation OCI Assessments](https://1drv.ms/v/c/24dfc31debd79d09/IQS7BHJAsXYCQ5kEGPljpzLGAY6IToFZUYVemGJ-LD_P28w?width=1920&height=1080)
 
 
 RoboMate Cloud Automation - Automation Profile
