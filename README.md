@@ -90,7 +90,7 @@ Use RoboMate Cloud Automation assessments for Azure, AWS, or OCI and Get a wide 
 
 Watch the RoboMate Cloud Automation Assessments Quick Demos below
 
-[RoboMate Cloud Automation Azure Assessments](https://1drv.ms/v/c/24dfc31debd79d09/EQmd1-sdw98ggCTIwAQAAAABkIWwlW_FV0zrHqresVRKNw?e=1kKVJa)
+[RoboMate Cloud Automation Azure Assessments](https://1drv.ms/v/c/24dfc31debd79d09/IQThfe_VJodyQ54YmQl7OS1fAVxnDDOXV4sNoZF9VdEyOZg?width=1920&height=1080)
 
 [RoboMate Cloud Automation AWS Assessments](https://1drv.ms/v/c/24dfc31debd79d09/IQRtuoYSDNLVQZqi2oFtGBGIAXO8M-SzbaJb_u_t25ZzD74?width=3840&height=2160)
 
